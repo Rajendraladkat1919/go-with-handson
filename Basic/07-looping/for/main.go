@@ -1,4 +1,5 @@
 // for initialization; condition; post {}
+
 package main
 
 import "fmt"
