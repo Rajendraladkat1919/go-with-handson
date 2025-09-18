@@ -1,0 +1,10 @@
+package morefor
+
+import "fmt"
+
+func main() {
+	for i := 0; i < 10; {
+		fmt.Println("Rala")
+		i++
+	}
+}
